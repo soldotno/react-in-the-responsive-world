@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "babel-core": "^4.6.6",
-    "babel-loader": "^4.0.0",
-    "react": "^0.13.0",
-    "webpack": "^1.8.5"
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "react": "^15.4.2",
+    "webpack": "^2.2.1"
   },
   "scripts": {
     "start": "webpack -w & nws -p 4000"
@@ -14,6 +14,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nws": "^0.6.1"
+    "nws": "^1.1.1"
   }
 }
